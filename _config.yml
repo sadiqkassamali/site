@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Vicente Opaso
+title: Sadiq Kassamali
 # email: vicente@opa.so
-description: Senior Frontend Engineer
+description: Full Stack
 
 baseurl: "/" # the optional subpath of your site, e.g. "/blog"
 url: "https://opa.so" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name: "Vicente Opaso"
+  name: "Sadiq Kassamali"
   # x: vicenteopaso
   tagline: "Innovative Software Architect & <br/>Design System Expert"
   bio: "With over 20 years of experience in managing teams and launching high-performance applications, I specialize in creating robust, scalable frontend architectures that drive efficiency and foster innovation across large-scale applications."
@@ -37,7 +37,7 @@ linkedin_username: vicenteopaso
 logo: assets/images/logo.png
 logo_dark: assets/images/logo_dark.png
 
-copyright: "&copy; 2024 Vicente Opaso. All rights reserved. Build with [markdown](https://daringfireball.net/projects/markdown) on [Jekyll](https://github.com/mmistakes/jekyll-theme-basically-basic), hosted on [GitHub Pages](https://pages.github.com)."
+copyright: "&copy; 202 Sadiq Kassamali. All rights reserved. Build with [markdown](https://daringfireball.net/projects/markdown) on [Jekyll](https://github.com/mmistakes/jekyll-theme-basically-basic), hosted on [GitHub Pages](https://pages.github.com)."
 
 search: false # true, false (default)
 search_full_content: true # true, false (default)
@@ -46,7 +46,7 @@ algolia:
   application_id: 7XT7GR1JCF # YOUR_APPLICATION_ID
   index_name: opa.so # YOUR_INDEX_NAME
   search_only_api_key: bed3e44e985f92539b05c18da532b09e # YOUR_SEARCH_ONLY_API_KEY
-  powered_by: true # true (default), false
+  powered_by: false # true (default), false
 
 # Build settings
 markdown: kramdown
